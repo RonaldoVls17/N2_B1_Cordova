@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
 
-You can use the [editor on GitHub](https://github.com/RonaldoVls17/N2_B1_Cordova/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  <meta name="format-detection" content="telephone=no">
+  <meta name="msapplication-tap-highlight" content="no">
+  <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+  <link rel="stylesheet" href="css/index.css">
+  <title>N_2_1_Bimestre</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</head>
+<style>
 
-### Markdown
+</style>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<body>
 
-```markdown
-Syntax highlighted code block
+    <img style="top: 30%; left: 43%;" src="./Recursos/api.png" alt="some text" width=250px height=250px> 
+    <img style="top: 94%; left: 70.5%;"src="./Recursos/CEP.png" alt="some text" width=23px height=23px> 
+    <img style="top: 94%; left: 51%;"src="./Recursos/chat.png" alt="some text" width=23px height=23px> 
+    <img style="top: 94%; left: 11%;"src="./Recursos/book.png" alt="some text" width=23px height=23px> 
+    <img style="top: 94%; left: 31%;"src="./Recursos/dollar.png" alt="some text" width=23px height=23px> 
 
-# Header 1
-## Header 2
-### Header 3
+    <button onclick="window.location.href='BuscaCEP.html'" style="left: 69.9%; "> <b>BUSCAR CEP</b> </button>
+    <button onclick="window.location.href='BuscaCONSELHO.html'" style="left: 49.8%;"> <b>BUSCAR CONSELHO</b> </button>
+    <button onclick="window.location.href='BuscaSALARIO.html'" style="left: 30%;"> <b>BUSCAR SALARIO</b> </button>
+    <button onclick="window.location.href='BuscaLIVRO.html'" style="left: 10%;"> <b>BUSCAR LIVRO</b> </button>
 
-- Bulleted
-- List
+</body>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RonaldoVls17/N2_B1_Cordova/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
